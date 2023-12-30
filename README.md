@@ -60,7 +60,7 @@ is a full stack web based application which offers different types of volunteer 
 #### Project Link:
 [Client Repository](https://github.com/abedinforhan/volunteer-network-client)
 [Server Repository](https://github.com/abedinforhan/volunteer-network-server)
-[Live Site]([https://volunteer-ae626.web.app](https://educational-training-eve-d4e34.web.app/?fbclid=IwAR15SxRxSbCqvsK2yA-lF79xBEh-5cEFLsZC-oHqw64znl84ihYntSWrm74))
+[Live Site](https://educational-training-eve-d4e34.web.app/?fbclid=IwAR15SxRxSbCqvsK2yA-lF79xBEh-5cEFLsZC-oHqw64znl84ihYntSWrm74)
 
 ![Volunteer Network](/volunteer.gif "Volunteer Network")
 
