@@ -1,4 +1,4 @@
-### Hi there, I'm Forhan ,an aspiring MERN stack developer. :smiley:
+### Hi there, I'm shamim raza ,an aspiring MERN stack developer. :smiley:
 
 
 [Check My Resume]( https://drive.google.com/file/d/1hYIo3oQ0xvx_MZXBcT3yRqSKFBbQw8rL/view?usp=sharing)
@@ -7,11 +7,11 @@
 [Check Me on Website](https://professional-portfolio-react.web.app/)
 
 
-## I'm a Student,Developer,and Teacher!
+## I'm a Student,Developer!
 
-- 🌱 I’m currently learning Redux  🤣
+- 🌱 I’m currently learning React  🤣
 - :eyes: I’m looking for an internship to upgrade my skilss.
-- 🥅 2020 Goals: Learn Redux,MySQl,Oracle,Jira,Scrum,SDLC 
+- 🥅 2024 Goals: Learn Redux,MySQl,Oracle,Jira,Scrum,SDLC 
 - ⚡ Fun fact: I love to watch Cartoons.
 
 ### Connect with me:
