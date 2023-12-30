@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimraza&label=Profile%20views&color=0e75b6&style=flat" alt="shamimraza" /> </p>
 
 - 🔭 I’m currently working on [asset management](https://three-water.surge.sh/?fbclid=IwAR2u-34pgnbE6uwvPUAdZi0TsEptY7SvGBULx5_jRGlWS4v1vUTgsteJ4Ao)
-
 - 🌱 I’m currently learning **react**
-
+- :eyes: I’m looking for an internship to upgrade my skilss.
+- 🥅 2024 Goals: Learn Redux,MySQl,Oracle,Jira,Scrum,SDLC 
+- ⚡ Fun fact: I love to watch Cartoons.
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **shamimraza411@gmail.com**
