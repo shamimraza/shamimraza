@@ -1,26 +1,84 @@
-<h1 align="center">Hi 👋, I'm shamim raza</h1>
-<h3 align="center">A passionate frontend developer from bangladesh</h3>
+### Hi there, I'm Forhan ,an aspiring MERN stack developer. :smiley:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimraza&label=Profile%20views&color=0e75b6&style=flat" alt="shamimraza" /> </p>
 
-- 🔭 I’m currently working on [asset management](https://three-water.surge.sh/?fbclid=IwAR2u-34pgnbE6uwvPUAdZi0TsEptY7SvGBULx5_jRGlWS4v1vUTgsteJ4Ao)
+[Check My Resume]( https://drive.google.com/file/d/1hYIo3oQ0xvx_MZXBcT3yRqSKFBbQw8rL/view?usp=sharing)
 
-- 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **react**
+[Check Me on Website](https://professional-portfolio-react.web.app/)
 
-- 📫 How to reach me **shamimraza411@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shamim-raza-2790271a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shamim-raza-2790271a2/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/shamimraza411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/shamimraza411" height="30" width="40" /></a>
-</p>
+## I'm a Student,Developer,and Teacher!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently learning Redux  🤣
+- :eyes: I’m looking for an internship to upgrade my skilss.
+- 🥅 2020 Goals: Learn Redux,MySQl,Oracle,Jira,Scrum,SDLC 
+- ⚡ Fun fact: I love to watch Cartoons.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamimraza&show_icons=true&locale=en&layout=compact" alt="shamimraza" /></p>
+### Connect with me:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamimraza&show_icons=true&locale=en" alt="shamimraza" /></p>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+
+<br />
+<br />
+
+## Recent GitHub Acitivity
+---
+## Recent Projects:
+---
+### Creative Agency: 
+an organization, that provides services like android app development ,web app development,
+graphic design etc.
+</br>
+#### Project Link:
+[Client Repository](https://github.com/abedinforhan/creative-agency-client)
+[Server Repository](https://github.com/abedinforhan/creative-agency-server)
+[Live Site](https://creative-agency-6909f.web.app/)
+
+![Creative Agency](/agency.gif "Creative Agency")
+
+### Volunteer Network: 
+is a full stack web based application which offers different types of volunteer jobs to the people.
+</br>
+#### Project Link:
+[Client Repository](https://github.com/abedinforhan/volunteer-network-client)
+[Server Repository](https://github.com/abedinforhan/volunteer-network-server)
+[Live Site](https://volunteer-ae626.web.app)
+
+![Volunteer Network](/volunteer.gif "Volunteer Network")
+
+### Covid Tracker: 
+is a web application for tracking daily covid19 cases.
+</br>
+#### Project Link:
+[Repository](https://github.com/abedinforhan/Covid-Tracker)
+[Live Site](https://abedinforhan.github.io/Covid-Tracker/index.html)
+
+![Covid Tracker](/covid.gif "Covid Tracker")
+
+
+[Resume]:https://drive.google.com/file/d/1hYIo3oQ0xvx_MZXBcT3yRqSKFBbQw8rL/view?usp=sharing
+[website]: https://professional-portfolio-react.web.app
+[instagram]: https://www.instagram.com/osthir__dev
+[linkedin]: https://www.linkedin.com/in/mezbaul-abedin-forhan-59b7001b7
+
 
