@@ -45,9 +45,7 @@
 ---
 ## Recent Projects:
 ---
-### Creative Agency: 
-an organization, that provides services like android app development ,web app development,
-graphic design etc.
+
 </br>
 #### Project Link:
 [Client Repository](https://github.com/abedinforhan/creative-agency-client)
