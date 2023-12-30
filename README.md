@@ -1,7 +1,7 @@
 ### Hi there,  I'm Shamim Raza ,an aspiring MERN stack developer. 😃👋
 
 
-Hi there,
+
 
 Here are some ideas to get you started:
 
